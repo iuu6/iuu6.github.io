@@ -18,4 +18,20 @@
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
   </entry>
+  <entry>
+    <title>go-Println</title>
+    <url>/go-Println.html</url>
+    <content><![CDATA[<figure class="highlight go"><table><tr><td class="code"><pre><span class="line"><span class="keyword">package</span> main</span><br><span class="line"></span><br><span class="line"><span class="keyword">import</span> <span class="string">&quot;fmt&quot;</span></span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">func</span> <span class="title">main</span><span class="params">()</span></span> &#123;</span><br><span class="line">	<span class="comment">//输出</span></span><br><span class="line">	fmt.Println(<span class="string">&quot;hello world&quot;</span>)</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p><img src="/go-Println/image-20230203142544421.png" alt="image-20230203142544421"></p>
+]]></content>
+      <categories>
+        <category>Go语言学习</category>
+      </categories>
+      <tags>
+        <tag>Go</tag>
+        <tag>笔记</tag>
+        <tag>输出</tag>
+      </tags>
+  </entry>
 </search>
